@@ -1,15 +1,15 @@
-- 👋 Hi, I’m @mrmadgav
+👋 Hi, I’m @mrmadgav
 
-- 🌱 I’m currently learning React Native, TypeScript
+👔 I’m currently learning React Native, TypeScript
 
-- Technologies Stack:
+😎 Technologies Stack:
 - JavaScript
 - React
 - Node.js
 - MongoDb
 - HTML/CSS/SASS/CSS modules/MaterialUI
 
-- 📫 How to reach me:
+✔ 📫 How to reach me:
 https://vk.com/e_serebrennikov
 https://t.me/EA_Serebrennikov
 
