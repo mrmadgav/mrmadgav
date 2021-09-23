@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning React Native, TypeScript
 
+- 
+
 - 📫 How to reach me:
 https://vk.com/e_serebrennikov
 https://t.me/EA_Serebrennikov
