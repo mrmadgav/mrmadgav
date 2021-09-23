@@ -2,7 +2,12 @@
 
 - 🌱 I’m currently learning React Native, TypeScript
 
-- 
+- Technologies Stack:
+JavaScript
+React
+Node.js
+MongoDb
+
 
 - 📫 How to reach me:
 https://vk.com/e_serebrennikov
