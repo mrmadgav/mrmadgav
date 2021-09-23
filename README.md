@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning React Native, TypeScript
 
 - Technologies Stack:
-JavaScript
-React
-Node.js
-MongoDb
-HTML/CSS/SASS/CSS modules/MaterialUI
+- JavaScript
+- React
+- Node.js
+- MongoDb
+- HTML/CSS/SASS/CSS modules/MaterialUI
 
 - 📫 How to reach me:
 https://vk.com/e_serebrennikov
